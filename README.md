@@ -1,11 +1,7 @@
-# 2021spring-SYSU-simple_blog_website
+# Blog Website
 
 ## 1 Introduction
-This is the final teamwork project of "Senior Technical Project" at the School of Computer Science, Sun Yat-Sen University, and the instructor is Yongmin Zhang. We have implemented a simple blog site from scratch, involving the use of Tomcat and MySQL. In addition, we use HTML/CSS/JS to design the page without using any front-end framework.
-
-这是一个小组合作的期末课程项目。课程为中山大学计算机学院的《专业技术综合实践》，授课老师为张永民。 我们从零实现了一个简单的博客网站，支持基本的文章发布编辑删除、浏览与评论等常见功能。
-在此项目中，我们使用到的技术/语言包括Tomcat, MySQL, JSP, HTML/CSS/JS等。
-由于项目要求，我们不能使用任何前端框架。更多的项目细节将在课程报告中说明。
+This is the final teamwork project for the class "Senior Technical Project". We have implemented a blog website from scratch, involving Tomcat and MySQL. In addition, we use HTML/CSS/JS to design the page without using any front-end framework.
 
 ## 2 How to Use It?
 
